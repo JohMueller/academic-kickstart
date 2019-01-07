@@ -8,7 +8,7 @@ title = "Projects"
 subtitle = ""
 
 # Order that this section will appear in.
-# weight = 50
+weight = 50
 
 # Content.
 # Display content from the following folder.
@@ -30,7 +30,7 @@ widget_layout = 0
 # Filter toolbar.
 
 # Default filter index (e.g. 0 corresponds to the first `[[filter]]` instance below).
-# filter_default = 0
+filter_default = 0
 
 # Add or remove as many filters (`[[filter]]` instances) as you like.
 # To show all items, set `tag` to "*".
