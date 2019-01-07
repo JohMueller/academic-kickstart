@@ -1,7 +1,7 @@
 +++
-title = "CorrelAid"
-date = 2019-01-07T17:37:23+01:00
-draft = false
+title = "Correlaid"
+date = 2019-01-07T17:47:59+01:00
+draft = true
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -12,9 +12,9 @@ categories = []
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
-  caption = ""
+  caption = "hej"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = ""
+  focal_point = "Smart"
 +++
