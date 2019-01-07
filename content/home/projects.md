@@ -8,7 +8,7 @@ title = "Projects"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 50
+# weight = 50
 
 # Content.
 # Display content from the following folder.
@@ -25,7 +25,7 @@ view = 2
 widget_layout = 0
 
 # For Showcase view, flip alternate rows?
-flip_alt_rows = false
+# flip_alt_rows = false
 
 # Filter toolbar.
 
