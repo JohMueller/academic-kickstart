@@ -33,8 +33,8 @@ weight = 5
  
 +++
 
-# Hej there.
+# Hej!
 
-Welcome to my website! I am data analyst, social scientist, and social entrepreneur. My goal is to use data science for the public good and educate people about the potential of data and evidence in all areas of life. 
+I am data analyst, social scientist, and social entrepreneur. My goal is to use data science for the public good and educate people about the potential of data and evidence in all areas of life. 
 
 I founded the non-profit organisation CorrelAid which aims to democratice the potential of data science. With a network of 650 data scientists we are working with mission-driven organisations to do data science for the public good. My academic interests include policy evaluation, causal inference, survey methodology and epistomology. 
