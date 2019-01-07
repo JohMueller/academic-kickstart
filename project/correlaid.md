@@ -2,6 +2,7 @@
 title = "Correlaid"
 date = 2019-01-07T17:47:59+01:00
 draft = true
+highlight = true
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -13,10 +14,6 @@ categories = []
 [image]
   # Caption (optional)
   caption = "hej"
-
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Smart"
 +++
 
 Hello this is the first project
