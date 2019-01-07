@@ -10,9 +10,9 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Data Science",
+    "Policy Evaluation",
+    "Social Entrepreneurship"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -23,7 +23,7 @@ weight = 5
 
 [[education.courses]]
   course = "M.Sc. Evidence-based Social Intervention and Policy Evaluation"
-  institution = "Massachusetts Institute of Technology"
+  institution = "University of Oxford"
   year = 2017
 
 [[education.courses]]
