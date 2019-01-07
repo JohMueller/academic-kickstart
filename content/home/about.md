@@ -35,6 +35,7 @@ weight = 5
 
 # Hej!
 
-I am data analyst, social scientist, and social entrepreneur. My goal is to use data science for the public good and educate people about the potential of data and evidence in all areas of life. 
+I am on the mission to help democraticing the potential of data science. This journey has made me a social entrepreneur, a data analyst and a social scientist.
 
-I founded the non-profit organisation CorrelAid which aims to democratice the potential of data science. With a network of 650 data scientists we are working with mission-driven organisations to do data science for the public good. My academic interests include policy evaluation, causal inference, survey methodology and epistomology. 
+With CorrelAid I founded a network of 650 data scientists which helps mission-driven organisations to increase their impact with data science. As a data analyst I worked with international organisations such as the Skoll Center for Social Entrepreneurship and the HIV/AIDS Alliance. On the academic side of things I love to think (and write) about evidence-based policies, causal inference, 
+and computational methods in the social sciences. 
