@@ -1,16 +1,16 @@
 +++
 # Project title.
-title = "Internal Project"
+title = "CorrelAid"
 
 # Date this page was created.
 date = 2016-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "An example of using the in-built project page."
+summary = "Social Start-Up"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Deep Learning"]
+tags = ["dataforgood"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -31,18 +31,17 @@ url_code = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/georgecushen"}]
+url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/CorrelAid"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
-[image]
+[image] 
   # Caption (optional)
   caption = "Photo by rawpixel on Unsplash"
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
-  external_link = "http://external-project.com"
 +++
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
