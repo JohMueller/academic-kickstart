@@ -17,24 +17,24 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "M.A. Policy Analysis"
+  institution = "Konstanz University"
+  year = 2018
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
+  course = "M.Sc. Evidence-based Social Intervention and Policy Evaluation"
   institution = "Massachusetts Institute of Technology"
-  year = 2009
+  year = 2017
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "B.A. Political Science and Public Administration"
+  institution = "Konstanz University/ Göteborg University"
+  year = 2016
  
 +++
 
-# Biography
+# Hej there.
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Welcome to my website! I am data analyst, social scientist, and social entrepreneur. My goal is to use data science for the public good and educate people about the potential of data and evidence in all areas of life. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I founded the non-profit organisation CorrelAid which aims to democratice the potential of data science. With a network of 650 data scientists we are working with mission-driven organisations to do data science for the public good. My academic interests include policy evaluation, causal inference, survey methodology and epistomology. 
