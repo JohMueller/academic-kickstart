@@ -1,20 +1,17 @@
 +++
-title = "Project"
-date = 2019-01-07T19:21:52+01:00
-draft = false
+title = "Projects"
+date = 2017-01-01T00:00:00
+math = false
+highlight = false
 
-# Tags and categories
-# For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
-categories = []
+# List format.
+#   0 = Simple
+#   1 = Detailed
+#   2 = Stream
+list_format = 2
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-[image]
-  # Caption (optional)
-  caption = ""
-
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = ""
+# Optional featured image (relative to `static/img/` folder).
+[header]
+image = ""
+caption = ""
 +++
