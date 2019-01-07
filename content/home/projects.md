@@ -47,9 +47,6 @@ flip_alt_rows = false
 # [[filter]]
 #   name = "Other"
 #   tag = "Demo"
-
-exclude_selected = false
-
 +++
 
 
