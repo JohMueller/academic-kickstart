@@ -5,7 +5,7 @@ active = true
 date = 2016-04-20T00:00:00
 
 title = "Recent & Upcoming Talks"
-subtitle = ""
+subtitle = "I frequently give talks and workshops on data science, data-for-good, the digital civil society, and social entrepreneurship"
 
 # Order that this section will appear in.
 weight = 40
@@ -23,9 +23,4 @@ list_format = 2
 exclude_selected = false
 +++
 
-<h1> I frequently give keynotes and workshops on topics such as </h1>
 
-* data science for social good
-* machine learning/ data science
-* digital engagement/ digital civil society
-* social entrepreneurship
