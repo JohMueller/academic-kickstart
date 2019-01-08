@@ -33,9 +33,6 @@ weight = 5
  
 +++
 
-# Hej!
+# Data Science for the Public Good.
 
-I am on the mission to help democraticing the potential of data science. This journey has made me a social entrepreneur, a data analyst and a social scientist.
-
-With CorrelAid I founded a network of 650 data scientists which helps mission-driven organisations to increase their impact with data science. As a data analyst I worked with international organisations such as the Skoll Center for Social Entrepreneurship and the HIV/AIDS Alliance. On the academic side of things I love to think (and write) about evidence-based policies, causal inference, 
-and computational methods in the social sciences. 
+I am a social entrepreneur, a data analyst and a social scientist. I founded the social start-up CorrelAid, a network of 650 data scientists which helps mission-driven organisations to increase their impact with data science. As a data analyst I worked with international organisations such as the Skoll Center for Social Entrepreneurship and the HIV/AIDS Alliance. On the academic side of things I love to think (and write) about evidence-based policies, causal inference, and computational methods in the social sciences. In talks, workshops and tutorials I combine those interests and educate diverse crowds on how we can use evidence-based decisionmaking in the civil society.  
