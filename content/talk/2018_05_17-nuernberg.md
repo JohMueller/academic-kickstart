@@ -2,6 +2,7 @@
 title = "Panel Discussion: Deutscher Stiftungstag (Nuernberg)"
 date = 2018-05-17T14:02:40+01:00
 draft = false
+subtitle = "Digital Tools for the Civil Society"
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -12,7 +13,6 @@ categories = []
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
-  caption = ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
