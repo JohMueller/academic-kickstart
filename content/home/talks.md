@@ -11,7 +11,7 @@ subtitle = "I frequently give talks and workshops on data science, data-for-good
 weight = 40
 
 # Number of talks to list.
-count = 10
+count = 7
 
 # List format.
 #   0 = Simple
