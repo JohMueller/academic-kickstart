@@ -23,7 +23,8 @@ list_format = 2
 exclude_selected = false
 +++
 
-I frequently give keynotes and workshops on topics such as 
+<h1> I frequently give keynotes and workshops on topics such as </h1>
+
 * data science for social good
 * machine learning/ data science
 * digital engagement/ digital civil society
