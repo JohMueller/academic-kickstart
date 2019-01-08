@@ -13,7 +13,7 @@ summary = "Social Start-Up"
 tags = ["dataforgood"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "www.correlaid.org"
+external_link = "https://correlaid.org/"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -31,7 +31,7 @@ url_code = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/CorrelAid"}]
+url_custom = [{icon_pack = "fab", icon="twitter", name="Follow CorrelAid on Twitter", url = "https://twitter.com/CorrelAid"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
