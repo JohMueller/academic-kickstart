@@ -23,3 +23,8 @@ list_format = 2
 exclude_selected = false
 +++
 
+I frequently give keynotes and workshops on topics such as 
+* data science for social good
+* machine learning/ data science
+* digital engagement/ digital civil society
+* social entrepreneurship
