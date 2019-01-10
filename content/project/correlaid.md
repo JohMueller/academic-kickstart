@@ -41,7 +41,7 @@ url_code = ""
  [image]
   # Caption (optional)
 #  caption = "Photo by rawpixel on Unsplash"
-  image = "gender_img.png"
+  image = "sz_logo.jpg"
 #  # Focal point (optional)
 #  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 #  focal_point = "Smart"
