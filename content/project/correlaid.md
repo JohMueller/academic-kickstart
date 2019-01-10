@@ -38,10 +38,10 @@ url_code = ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder.
-# [image]
-#  # Caption (optional)
+ [image]
+  # Caption (optional)
 #  caption = "Photo by rawpixel on Unsplash"
-
+  image = "gender_img.png"
 #  # Focal point (optional)
 #  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 #  focal_point = "Smart"
