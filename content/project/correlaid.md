@@ -1,12 +1,12 @@
 +++
 # Project title.
-title = "Portait in Sueddeutsche Zeitung"
+title = "Portait: In Daten denken"
 
 # Date this page was created.
 date = 2017-09-14T00:00:00
 
 # Project summary to display on homepage.
-summary = "In Daten denken"
+summary = "Sueddeutsche Zeitung"
 
 image = "sz_logo.jpg"
 
