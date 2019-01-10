@@ -4,7 +4,7 @@ widget = "projects"
 active = true
 date = 2016-04-20T00:00:00
 
-title = "Projects"
+title = "Media"
 subtitle = "Things I am up to"
 
 # Order that this section will appear in.
@@ -48,5 +48,3 @@ filter_default = 0
 #   name = "Other"
 #   tag = "Demo"
 +++
-
-
