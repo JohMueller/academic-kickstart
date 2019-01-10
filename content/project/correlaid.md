@@ -8,7 +8,7 @@ date = 2017-09-14T00:00:00
 # Project summary to display on homepage.
 summary = "Sueddeutsche Zeitung"
 
-image = "sz_logo.jpg"
+#image = "sz_logo.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -38,10 +38,10 @@ url_code = ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder.
- [image]
-  # Caption (optional)
+# [image]
+#  # Caption (optional)
 #  caption = "Photo by rawpixel on Unsplash"
-  image = "sz_logo.jpg"
+#  image = "sz_logo.jpg"
 #  # Focal point (optional)
 #  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 #  focal_point = "Smart"
