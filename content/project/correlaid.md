@@ -38,13 +38,13 @@ url_code = ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder.
-[image]
+# [image]
 # Caption (optional)
-  caption = "Photo by rawpixel on Unsplash"
-  image = "sz_logo.jpg"
+#  caption = "Photo by rawpixel on Unsplash"
+#  image = "sz_logo.jpg"
 #  # Focal point (optional)
 #  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Smart"
+#  focal_point = "Smart"
 
 [header]
   image = "sz_logo.jpg"
