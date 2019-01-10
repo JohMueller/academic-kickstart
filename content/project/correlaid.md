@@ -47,5 +47,5 @@ url_code = ""
 #  focal_point = "Smart"
 
 [header]
-  image = "gender_img.png"
+  image = "sz_logo.jpg"
 +++
