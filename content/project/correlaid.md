@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Portait: In Daten denken"
+title = "Portait: *In Daten denken*"
 
 # Date this page was created.
 date = 2017-09-14T00:00:00
@@ -8,7 +8,7 @@ date = 2017-09-14T00:00:00
 # Project summary to display on homepage.
 summary = "Sueddeutsche Zeitung"
 
-#image = "sz_logo.jpg"
+preview_image = "sz_logo.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
