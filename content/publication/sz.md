@@ -23,18 +23,13 @@ external_link = "https://www.sueddeutsche.de/wirtschaft/correl-aid-in-daten-denk
 #   E.g. `slides = "example-slides"` references
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides = ""
+#slides = ""
 
 # Links (optional).
-url_pdf = ""
-url_slides = ""
-url_video = ""
-url_code = ""
-
-# Custom links (optional).
-#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-#url_custom = [{icon_pack = "fab", icon="twitter", name="Follow CorrelAid on Twitter", url
-# ="https://twitter.com/CorrelAid"}]
+#url_pdf = ""
+#url_slides = ""
+#url_video = ""
+#url_code = ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder.
@@ -48,4 +43,5 @@ url_code = ""
 
 [header]
   image = "sz_logo.jpg"
+  caption = "SZ"
 +++
