@@ -8,7 +8,7 @@ date = 2017-09-14T00:00:00
 # Project summary to display on homepage.
 summary = "Sueddeutsche Zeitung"
 
-#preview_image = "sz_logo.jpg"
+preview_image = "sz_logo.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -41,7 +41,7 @@ external_link = "https://www.sueddeutsche.de/wirtschaft/correl-aid-in-daten-denk
 #  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 #  focal_point = "Smart"
 
-[header]
-  image = "sz_logo.jpg"
-  caption = "SZ"
+#[header]
+#  image = "sz_logo.jpg"
+#  caption = "SZ"
 +++
