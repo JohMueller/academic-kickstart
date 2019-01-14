@@ -9,7 +9,8 @@ date = 2017-09-14T00:00:00
 summary = "Sueddeutsche Zeitung"
 
 preview_image = "sz_logo.jpg"
-
+image = "sz_logo.jpg"
+image_preview = "sz_logo.jpg"
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 # tags = ["dataforgood"]

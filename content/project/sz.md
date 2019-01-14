@@ -7,6 +7,8 @@ date = 2017-09-14T00:00:00
 
 # Project summary to display on homepage.
 summary = "Sueddeutsche Zeitung"
+image = "sz_logo.jpg"
+image_preview = "sz_logo.jpg"
 
 #preview_image = "sz_logo.jpg"
 
@@ -23,13 +25,13 @@ external_link = "https://www.sueddeutsche.de/wirtschaft/correl-aid-in-daten-denk
 #   E.g. `slides = "example-slides"` references
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides = ""
+# slides = ""
 
 # Links (optional).
-url_pdf = ""
-url_slides = ""
-url_video = ""
-url_code = ""
+# url_pdf = ""
+# url_slides = ""
+# url_video = ""
+# url_code = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
@@ -46,6 +48,6 @@ url_code = ""
 #  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 #  focal_point = "Smart"
 
-[header]
-  image = "sz_logo.jpg"
+#[header]
+#  image = "sz_logo.jpg"
 +++
